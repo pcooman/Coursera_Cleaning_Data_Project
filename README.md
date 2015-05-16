@@ -1,6 +1,7 @@
 # Tidy_Data_Coursera
 
 The analysis file performs the following order of operations:
+
 1. Read in the training data sets (X_train, y_train and subjects_train)
 2. Read in the test data sets (X_test, y_test and subjects_train)
 3. Combine the training and test data sets (data, activity_labels and subjects)
